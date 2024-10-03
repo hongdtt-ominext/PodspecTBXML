@@ -1,6 +1,7 @@
 Pod::Spec.new do |spec|
   spec.name          = 'TBXML'
   spec.version       = '1.5'
+  spec.summary          = 'A short summary of the TBXML library'
   spec.license       = { :type => 'MIT' }
   spec.homepage      = 'http://www.tbxml.co.uk'
   spec.authors       = { 'Tom Bradley' => 'tom@tbxml.co.uk' }
