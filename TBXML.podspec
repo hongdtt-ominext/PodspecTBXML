@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.authors       = { 'Tom Bradley' => 'tom@tbxml.co.uk' }
   spec.source        = { git: 'https://github.com/codebots-ltd/TBXML.git', tag: 'v1.5' }
   
-  spec.ios.deployment_target = '12.0'
+  spec.ios.deployment_target = '9.0'
 
   # Specify the source files
   spec.source_files   = 'TBXML-Code/*.{h,m}', 'TBXML-Headers/*.{h,m}'
